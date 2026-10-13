@@ -62011,5 +62011,12 @@
     "author": "Caio Lopes",
     "description": "Syntax highlighting for Splunk SPL in fenced code blocks. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "clivoa/spl-syntax"
+  },
+  {
+    "id": "obsidian-index-guard",
+    "name": "Index Guard",
+    "author": "lingting0",
+    "description": "Keep index (MOC) notes in sync automatically: fix Bases references and index filenames on folder rename, and create indexes for new folders. Bilingual.",
+    "repo": "lingting0/obsidian-index-guard"
   }
 ]
